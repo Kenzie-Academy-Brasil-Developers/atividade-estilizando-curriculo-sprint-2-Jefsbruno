@@ -1,1 +1,106 @@
+#top {
+    background-color: #f3f3f3;
+    font-family: lato, sans-serif;
 
+}
+
+#cv {
+
+}
+
+.mainDetails {
+
+}
+
+.mainDetails ul {
+    list-style: none;
+    color: #444444;
+
+}
+
+#clear1 {
+	clear: both;
+    border-bottom: inset;
+    border-color:#cf8a05;
+    border-width: 2px;
+}
+
+
+.clear {
+	clear: both;    
+    border-bottom: inset;
+    border-color: #dedede;
+    border-width: 1px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#headshot {
+	width: 12.5%;
+	float: left;
+    margin-bottom: 15px;
+	
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;
+   
+}
+
+#name {
+	float: left;
+    font-family: 'Rokkitt',sans-serif;
+    
+}
+
+#name h2{
+    margin-top: -20px
+}
+
+#contactDetails {
+	float: right;
+}
+
+
+a{
+    text-decoration: none;
+    color:#444444;;
+}
+
+
+
+.sectionTitle {
+	float: left;
+    width: 25%;
+    font-family: Rokkitt,sans-serif;
+    color: #cf8a05;
+    padding-left: 15px;
+}
+
+.sectionTitle h1{
+    font-weight: 100;
+}
+    
+.subDetails {
+    font-style: italic;
+    margin-top: -18px;
+    margin-bottom: -13px;
+
+}
+
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+    color: #444444;
+    font-family: 'Rokkitt',sans-serif;
+}
+
+
+.keySkills {
+    list-style: none;
+    column-count: 3;
+
+}
