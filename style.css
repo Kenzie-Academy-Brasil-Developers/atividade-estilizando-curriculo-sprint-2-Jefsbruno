@@ -1,7 +1,9 @@
 #top {
     background-color: #f3f3f3;
     font-family: lato, sans-serif;
-
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #cv {
@@ -44,19 +46,21 @@
 
 img{
     border-radius: 50%;
-    margin-left: 15px;
-    margin-top: 10px;
-   
+    margin-left: 25px;
+    margin-top: 12px;
+    width: 80px;
 }
 
 #name {
 	float: left;
     font-family: 'Rokkitt',sans-serif;
+    margin-left: 30px;
     
 }
 
 #name h2{
-    margin-top: -20px
+    margin-top: -20px;
+    font-weight: 200;
 }
 
 #contactDetails {
@@ -98,6 +102,10 @@ a{
     font-family: 'Rokkitt',sans-serif;
 }
 
+.sectionContent h2 {
+	font-weight: 400;
+    color:#181818
+}
 
 .keySkills {
     list-style: none;
